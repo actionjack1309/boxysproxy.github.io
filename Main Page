@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Boxys proxy</title>
+</head>
+<body>
+  <h1> Now.gg is a website menat for cloud gaming with no account needed!</h1>
+  <h1>↓↓↓↓↓</h1>
+  <iframe src="now.gg"  
+        width="100%" 
+        height="600px" 
+        style="border: none;">
+</iframe>
+</script>
+</body>
+<body>
+<h1> Now here is the proxy </h1>
+  <h1>↓↓↓↓↓</h1>
+  <iframe src="now.gg"  
+        width="100%" 
+        height="600px" 
+        style="border: none;">
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Color Fade</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+
+            /* Start color */
+            background: red;
+
+            /* Animation */
+            animation: fadeColors 6s infinite alternate;
+        }
+
+        @keyframes fadeColors {
+            0% { background: red; }
+            50% { background: white; }
+            100% { background: blue; }
+        }
+    </style>
+</head>
+<body>
+</body>
+</html>
